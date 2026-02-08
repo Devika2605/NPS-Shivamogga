@@ -1,32 +1,53 @@
-# NPS-Shivamogga
 
-NPS School Shivamogga – Official School Website
-A professionally designed and fully responsive website created for National Public School, Shivamogga, to serve as a digital gateway for parents, students, and educators. This platform provides clear, structured access to school updates, admissions, academic highlights, and more.
+## 🏫 NPS School Shivamogga – Official School Website
 
-🔗 Live Site: https://npsshivamogga.co.in/
+A fully responsive, production-ready website developed for **National Public School, Shivamogga**, serving as the school’s official digital platform for parents, students, and educators. The site delivers structured, accessible information on academics, admissions, events, and institutional updates through a modern, user-friendly interface.
 
-🚀 Project Overview
-This website was developed with a focus on accessibility, user-friendly navigation, and informative content presentation. It reflects the school’s values and provides essential information in a visually engaging format.
+🔗 **Live Website:** [https://npsshivamogga.co.in/](https://npsshivamogga.co.in/)
 
-🔍 Key Features
-Intuitive homepage with banner carousel and school highlights
-Dedicated sections for:
-About the school
-Academic programs
-Admission process
-Events & achievements
-Contact and inquiry form
-Staff listing and image gallery
-Mobile-first, responsive design
-🛠️ Tech Stack
-Layer	Technologies Used
-Frontend	HTML5, CSS3, Bootstrap 5, JavaScript
-Backend	PHP
-Hosting	cPanel / Shared Web Hosting
-👥 Contributors
-Devika N D
-[linkedin](https://www.linkedin.com/in/devikand/) |[ github](https://github.com/Devika2605) 
-Shreya R Chittaragi
+---
 
-🛡️ License
-This project is the intellectual property of National Public School, Shivamogga.
+### 🚀 Project Overview
+
+Designed and deployed with a strong emphasis on accessibility, usability, and content clarity, this platform reflects the school’s academic values while ensuring seamless navigation across devices. The website acts as a centralized hub for school communication and public engagement.
+
+---
+
+### 🔍 Key Features
+
+* Dynamic homepage with banner carousel and institutional highlights
+* Dedicated modules for:
+
+  * School overview
+  * Academic programs
+  * Admissions workflow
+  * Events and achievements
+  * Faculty and staff directory
+* Interactive contact and inquiry form
+* Image gallery for campus and activities
+* Mobile-first, fully responsive design
+
+---
+
+### 🛠️ Tech Stack
+
+| Layer    | Technologies                         |
+| -------- | ------------------------------------ |
+| Frontend | HTML5, CSS3, Bootstrap 5, JavaScript |
+| Backend  | PHP                                  |
+| Hosting  | cPanel / Shared Web Hosting          |
+
+---
+
+### 👥 Contributors
+* **Devika N D**
+[linkedin](https://www.linkedin.com/in/devikand/)
+* **Shreya R Chittaragi**
+---
+
+### 🛡️ License
+
+This project is the intellectual property of **National Public School, Shivamogga**.
+
+
+Just tell me where you want to use it 👍
