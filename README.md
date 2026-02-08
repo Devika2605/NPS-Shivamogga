@@ -49,5 +49,3 @@ Designed and deployed with a strong emphasis on accessibility, usability, and co
 
 This project is the intellectual property of **National Public School, Shivamogga**.
 
-
-Just tell me where you want to use it 👍
